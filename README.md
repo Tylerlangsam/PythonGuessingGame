@@ -7,3 +7,5 @@ This is basic Python game that allows the user to guess a random number generate
 
 How To Use This
 ---------------
+1. Get started by running the python script by typing 'python guessingGame.py'
+2. Guess number by following prompts in terminal until you guess correctly!
